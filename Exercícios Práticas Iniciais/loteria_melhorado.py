@@ -31,4 +31,5 @@ for i in range(3):
     else: 
         print("Que pena, você errou! Tente um número maior.")
 
+
 print("O número sorteado era:", numero_sorte)
